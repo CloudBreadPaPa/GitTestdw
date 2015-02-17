@@ -1,0 +1,6 @@
+C:\Users\dwkim\Documents\GitHub\GitTestdw\GitTestdw\bin\Debug\GitTestdw.exe.config
+C:\Users\dwkim\Documents\GitHub\GitTestdw\GitTestdw\bin\Debug\GitTestdw.exe
+C:\Users\dwkim\Documents\GitHub\GitTestdw\GitTestdw\bin\Debug\GitTestdw.pdb
+C:\Users\dwkim\Documents\GitHub\GitTestdw\GitTestdw\obj\Debug\GitTestdw.csprojResolveAssemblyReference.cache
+C:\Users\dwkim\Documents\GitHub\GitTestdw\GitTestdw\obj\Debug\GitTestdw.exe
+C:\Users\dwkim\Documents\GitHub\GitTestdw\GitTestdw\obj\Debug\GitTestdw.pdb
