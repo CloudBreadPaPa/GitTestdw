@@ -14,6 +14,7 @@ namespace GitTestdw
             Console.WriteLine("하이브랜치로 거거싱!!!");
 
             Console.WriteLine("한번 더 커밋!");
+            Console.WriteLine("10시54분 커밋");
         }
     }
 }
